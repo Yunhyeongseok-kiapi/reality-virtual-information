@@ -31,10 +31,9 @@ Precision simulation SW and system linkage framework for co-simulation in conjun
      ● configuration
 
     1) Interface configuration
-
-      The simulation system is interface with an autonomous driving system and a TCP, and the simulation system is transmitted and receiving and receiving and receiving data to the server and autonomous driving system to TCP Client
-    
-    2) ㅇㅇ
+      : The simulation system is interface with an autonomous driving system and a TCP, and the simulation system is transmitted and receiving and receiving and receiving data to the server and autonomous driving system to TCP Client
     
     3) ㅇㅇ
+    
+    4) ㅇㅇ
 
