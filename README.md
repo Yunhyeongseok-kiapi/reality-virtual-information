@@ -11,4 +11,5 @@ Precision simulation SW and system linkage framework for co-simulation in conjun
 - Signal distortion, precision heterogeneous sensor modeling reflecting the attenuation
 - Co-simulation framework linked car, artificial intelligence solution, edge server
 - Test case for autonomous driving verification, scenario creation and verification
+- Synthetic datuments for artificial intelligence and benchmark sites for performance verification
 
