@@ -44,7 +44,7 @@ Precision simulation SW and system linkage framework for co-simulation in conjun
        : Self-defined packet proceeds based on non-engine              
        : Byte order: Little-endian               
        |          |                     Header                                | Data |
-       |:--------:|:--------------------------------------------------:|:----:|
+       |:--------:|:---------------------------------------------------------:|:----:|
        |   Type   | Packet Type | Current Sequence |   Time Stamp | Data Size |   -  |    
     4) Object data message definition      
 
