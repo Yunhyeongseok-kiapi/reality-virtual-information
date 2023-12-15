@@ -55,4 +55,7 @@ Precision simulation SW and system linkage framework for co-simulation in conjun
        
        : Object data has a difference in functions for each simulation, so all the elements available in the autonomous driving system have been defined, and data that cannot be provided in the simulation is used by entering zero value           
        : Details are “KIAPI-Technical Documents -2. Refer to the CO-SIMULATION framework “Develop a vehicle connection system”
+
+    4) Data exchange system               
+       : Defines obj
  
