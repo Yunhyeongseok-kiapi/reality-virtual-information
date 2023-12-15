@@ -18,7 +18,8 @@ Precision simulation SW and system linkage framework for co-simulation in conjun
   ##### Introduction
    - Name : Simulation-between autonomous vehicles Data exchange system
    - Company : KIAPI
-   - Function  
+   - Function
+     
      ● Data exchange system between the simulator and autonomous driving system  
      ● Data transmission and reception using TCP communication based on Ethernet connection between system hardware  
      ● In the simulator, the object data generated from the virtual environment -based simulation  
