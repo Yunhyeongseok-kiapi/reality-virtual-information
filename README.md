@@ -35,7 +35,7 @@ Precision simulation SW and system linkage framework for co-simulation in conjun
 
    | Server (Simulation system) | Client | (Autonomous system) |    비고  |
    | -------------------------- | -----  |                     |          |
-   |           IP               |  Port  |                     |          |
+   |           IP               |  Port  | ------------------- | -------- |
    |       192.165.10.10        | 15128  |   192.168.10.20     | Ethernet |
 
 
