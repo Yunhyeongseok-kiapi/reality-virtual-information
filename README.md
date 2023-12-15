@@ -20,4 +20,5 @@ Precision simulation SW and system linkage framework for co-simulation in conjun
    - Company : KIAPI
    - Function
      ● Data exchange system between the simulator and autonomous driving system
+     ● Data transmission and reception using TCP communication based on Ethernet connection between system hardware
 
