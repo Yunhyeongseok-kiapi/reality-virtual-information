@@ -45,6 +45,7 @@ Precision simulation SW and system linkage framework for co-simulation in conjun
 
        : (Packet Type)Set to distinguish the service by TCP packet type
        : (Current sequence) Packet number and packet separators, which are used to distinguish between the packets received and the current packet currently received
+       : (Timestamp) Use to check the message transmission time     
 
     4) Object data message definition      
 
