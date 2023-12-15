@@ -41,7 +41,8 @@ Precision simulation SW and system linkage framework for co-simulation in conjun
 
 
     2) TCP default message definition       
-       : Self-defined packet proceeds based on non-engine
-       : Byte order: Little-endian 
-    3) Object data message definition      
+       : Self-defined packet proceeds based on non-engine              
+       : Byte order: Little-endian
+       
+    4) Object data message definition      
 
