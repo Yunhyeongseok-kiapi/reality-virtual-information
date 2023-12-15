@@ -30,5 +30,5 @@ Precision simulation SW and system linkage framework for co-simulation in conjun
  
      ● configuration
 
-     1) Interface configuration
+     1) Interface configuration  
 
