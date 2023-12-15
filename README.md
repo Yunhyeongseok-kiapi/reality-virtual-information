@@ -43,5 +43,5 @@ Precision simulation SW and system linkage framework for co-simulation in conjun
     2) TCP default message definition
        
     
-    4) ㅇㅇ
+    3) Object data message definition      
 
