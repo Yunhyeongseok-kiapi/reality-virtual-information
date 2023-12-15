@@ -54,5 +54,5 @@ Precision simulation SW and system linkage framework for co-simulation in conjun
        <img src="https://github.com/Yunhyeongseok-kiapi/reality-virtual-information/assets/85465084/7a19615b-707f-4bc1-acde-d10da8e97444" width="456" height ="588">            
        
        : Object data has a difference in functions for each simulation, so all the elements available in the autonomous driving system have been defined, and data that cannot be provided in the simulation is used by entering zero value           
-       : 
+       : Details are “KIAPI-Technical Documents -2. Refer to the CO-SIMULATION framework “Develop a vehicle connection system”
  
