@@ -34,10 +34,7 @@ Precision simulation SW and system linkage framework for co-simulation in conjun
        : The simulation system is interface with an autonomous driving system and a TCP, and the simulation system is transmitted and receiving and receiving and receiving data to the server and autonomous driving system to TCP Client       
  
 
-       | Server (Simulation system) |                           | Client(Autonomous system) |   비고   |
-       |:--------------------------:|:-------------------------:|:-------------------------:|:--------:|
-       |           IP               |  Port                     |                           |          |
-       |       192.165.10.10        |           15128           |       192.168.10.20       | Ethernet |     
+       <img src="https://github.com/Yunhyeongseok-kiapi/reality-virtual-information/assets/85465084/ee3ae54a-74b7-4864-95d5-dd50cafcf3e5" width="455" height ="88">     
 
 
     2) TCP default message definition       
