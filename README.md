@@ -5,7 +5,7 @@
 ### (KIAPI)Development of reality-virtual information convergence and edge-based autonomous driving simulation SW technology
 Precision simulation SW and system linkage framework for co-simulation in conjunction with real (vehicle, PG environment, etc.) based on precise virtual environment-based sensing/cognitive/judgment or control information in line with the due diligence environment (vehicle, PG environment, etc.)
 
-<img src="https://github.com/Yunhyeongseok-kiapi/reality-virtual-information/assets/85465084/7cd81715-3128-471c-a1f5-96908db05a16" width="1983" height ="6313">
+<img src="https://github.com/Yunhyeongseok-kiapi/reality-virtual-information/assets/85465084/7cd81715-3128-471c-a1f5-96908db05a16" width="1983" height ="613">
 
 #### GOALS
 - LoD4 -level autonomous driving mock test that supports precision textures static/dynamic asset content
