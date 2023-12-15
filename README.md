@@ -51,5 +51,7 @@ Precision simulation SW and system linkage framework for co-simulation in conjun
     3) Object data message definition        
        : Defines object data elements for transmitting to autonomous driving systems in data generated in the simulation system
        
-       <img src="https://github.com/Yunhyeongseok-kiapi/reality-virtual-information/assets/85465084/7a19615b-707f-4bc1-acde-d10da8e97444" width="456" height ="588">   
+       <img src="https://github.com/Yunhyeongseok-kiapi/reality-virtual-information/assets/85465084/7a19615b-707f-4bc1-acde-d10da8e97444" width="456" height ="588">         
+       : Object data has a difference in functions for each simulation, so all the elements available in the autonomous driving system have been defined, and data that cannot be provided in the simulation is used by entering zero value     
+       : 
  
