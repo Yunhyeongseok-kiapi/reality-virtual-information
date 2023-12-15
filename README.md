@@ -48,7 +48,6 @@ Precision simulation SW and system linkage framework for co-simulation in conjun
        : (Timestamp) Use to check the message transmission time       
        : (Data Size) Except for 9 bytes of header, the unit is the unit      
 
-       
-
-    4) Object data message definition      
+    4) Object data message definition
+       : Defines object data elements for transmitting to autonomous driving systems in data generated in the simulation system        
 
