@@ -57,5 +57,9 @@ Precision simulation SW and system linkage framework for co-simulation in conjun
        : Details are “KIAPI-Technical Documents -2. Refer to the CO-SIMULATION framework “Develop a vehicle connection system”
 
     4) Data exchange system               
-       : Defines obj
+       : The server and the client system uses TCP/IP SOCKET communications using data transmission and reception
+       : The data transmitting system of the server transmits the data by extracting the data of the simulation when the simulation is in operation
+       : The client works only when the server is in operation, and receives data after linking with the server
+
+       
  
