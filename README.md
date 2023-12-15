@@ -27,4 +27,6 @@ Precision simulation SW and system linkage framework for co-simulation in conjun
      ● The autonomous driving system can evaluate autonomous driving functions on various scenarios using virtual object data other than the existing autonomous driving system
 
    - Specifications and configuration
+ 
+     ● configuration
 
