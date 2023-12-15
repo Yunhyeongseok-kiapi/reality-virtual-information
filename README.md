@@ -43,7 +43,7 @@ Precision simulation SW and system linkage framework for co-simulation in conjun
 
        <img src="https://github.com/Yunhyeongseok-kiapi/reality-virtual-information/assets/85465084/8bffd788-5062-4838-8de3-811238664772" width="455" height ="88">            
 
-       : (Packet Type) TCP 패킷 유형으로 서비스를 구분하기 위해 설정
+       : (Packet Type)Set to distinguish the service by TCP packet type
 
     4) Object data message definition      
 
