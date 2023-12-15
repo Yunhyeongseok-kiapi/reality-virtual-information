@@ -49,5 +49,7 @@ Precision simulation SW and system linkage framework for co-simulation in conjun
        : (Data Size) Except for 9 bytes of header, the unit is the unit      
 
     4) Object data message definition        
-       : Defines object data elements for transmitting to autonomous driving systems in data generated in the simulation system        
-
+       : Defines object data elements for transmitting to autonomous driving systems in data generated in the simulation system
+       
+       <img src="https://github.com/Yunhyeongseok-kiapi/reality-virtual-information/assets/85465084/8bffd788-5062-4838-8de3-811238664772" width="455" height ="88">   
+ 
