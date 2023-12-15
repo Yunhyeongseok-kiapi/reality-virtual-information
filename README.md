@@ -40,7 +40,8 @@ Precision simulation SW and system linkage framework for co-simulation in conjun
        |       192.165.10.10        | 15128  |   192.168.10.20     | Ethernet |     
 
 
-    3) ㅇㅇ
+    2) TCP default message definition
+       
     
     4) ㅇㅇ
 
