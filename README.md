@@ -7,4 +7,5 @@ Precision simulation SW and system linkage framework for co-simulation in conjun
 
 #### GOALS
 - LoD4 -level autonomous driving mock test that supports precision textures static/dynamic asset content
+- Virtual-Development of autonomous driving simulators and interfaces for edges for real information convergence verification
 
