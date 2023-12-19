@@ -1,6 +1,5 @@
 # KIAPI - reality-virtual-information
 
-
 ## Korea Intelligent Automotive Parts Promotion Institute(KIAPI) 
 ## <img src="https://github.com/Yunhyeongseok-kiapi/KIAPI_dataset/assets/85465084/9304bae8-7878-4b71-853f-08cff6392d4e" width="300" height ="100">
 
@@ -43,7 +42,7 @@ Precision simulation SW and system linkage framework for co-simulation in conjun
 
     2) TCP default message definition       
        : Self-defined packet proceeds based on non-engine              
-       : Byte order: Little-endian
+       : Byte order: Little-endian      
 
        <img src="https://github.com/Yunhyeongseok-kiapi/reality-virtual-information/assets/85465084/8bffd788-5062-4838-8de3-811238664772" width="455" height ="88">            
 
