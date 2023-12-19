@@ -1,5 +1,4 @@
-# KIAPI - reality-virtual-information
-
+# KIAPI
 ## Korea Intelligent Automotive Parts Promotion Institute(KIAPI) 
 ## <img src="https://github.com/Yunhyeongseok-kiapi/KIAPI_dataset/assets/85465084/9304bae8-7878-4b71-853f-08cff6392d4e" width="300" height ="100">
 
@@ -16,10 +15,9 @@ Precision simulation SW and system linkage framework for co-simulation in conjun
 - Test case for autonomous driving verification, scenario creation and verification
 - Synthetic datuments for artificial intelligence and benchmark sites for performance verification
 
- ## KIAPI : Simulation-between autonomous vehicles Data exchange system
+  #### KIAPI : Simulation-between autonomous vehicles Data exchange system
 
-  #### Introduction
-  
+  ##### Introduction
    - Name : Simulation-between autonomous vehicles Data exchange system
    - Company : KIAPI
    - Function
@@ -34,7 +32,6 @@ Precision simulation SW and system linkage framework for co-simulation in conjun
  
      ● configuration
 
-
     1) Interface configuration      
        : The simulation system is interface with an autonomous driving system and a TCP, and the simulation system is transmitted and receiving and receiving and receiving data to the server and autonomous driving system to TCP Client       
  
@@ -44,7 +41,7 @@ Precision simulation SW and system linkage framework for co-simulation in conjun
 
     2) TCP default message definition       
        : Self-defined packet proceeds based on non-engine              
-       : Byte order: Little-endian      
+       : Byte order: Little-endian
 
        <img src="https://github.com/Yunhyeongseok-kiapi/reality-virtual-information/assets/85465084/8bffd788-5062-4838-8de3-811238664772" width="455" height ="88">            
 
