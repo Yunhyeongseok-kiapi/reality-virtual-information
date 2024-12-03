@@ -63,7 +63,7 @@ Precision simulation SW and system linkage framework for co-simulation in conjun
        : The data transmitting system of the server transmits the data by extracting the data of the simulation when the simulation is in operation       
        : The client works only when the server is in operation, and receives data after linking with the server
 
-      <img src="[https://github.com/Yunhyeongseok-kiapi/reality-virtual-information/assets/85465084/7a19615b-707f-4bc1-acde-d10da8e97444](https://github.com/user-attachments/assets/eeb15874-c658-4a95-bd6f-e8146d832072)" width="456" height ="588">
+      <img src="https://github.com/user-attachments/assets/0143a42c-8ad3-43e0-b0ed-822e0b59f0e0" width="456" height ="588">
 
-       
+
  
