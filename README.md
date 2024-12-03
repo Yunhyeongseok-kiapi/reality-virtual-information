@@ -62,7 +62,8 @@ Precision simulation SW and system linkage framework for co-simulation in conjun
        : The server and the client system uses TCP/IP SOCKET communications using data transmission and reception       
        : The data transmitting system of the server transmits the data by extracting the data of the simulation when the simulation is in operation       
        : The client works only when the server is in operation, and receives data after linking with the server 
-       <img src="https://github.com/user-attachments/assets/0143a42c-8ad3-43e0-b0ed-822e0b59f0e0" width="600" height ="480">
+       <img src="https://github.com/user-attachments/assets/0143a42c-8ad3-43e0-b0ed-822e0b59f0e0" width="600" height ="380">
+
 
 
  
